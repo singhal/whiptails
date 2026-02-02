@@ -1,0 +1,228 @@
+Sample_Name,Name_in_DataFiles,Latitude,Longitude,Locality,BioSample_Accession,Species,Lineage
+AHP3663,AHP3663,29.890978,-104.521026,"United States: Presidio County, Texas",SAMN54951253,Aspidoscelis dixoni,Aspidoscelis dixoni
+AHP3664,AHP3664,29.890978,-104.521026,"United States: Presidio County, Texas",SAMN54951254,Aspidoscelis dixoni,Aspidoscelis dixoni
+TAMU_H4647,TAMU_H4647,29.8755,-104.5072,"United States: Presidio County, Texas",SAMN54951445,Aspidoscelis dixoni,Aspidoscelis dixoni
+TAMU_H4648,TAMU_H4648,29.8755,-104.5072,"United States: Presidio County, Texas",SAMN54951446,Aspidoscelis dixoni,Aspidoscelis dixoni
+TAMU_H4650,TAMU_H4650,29.8755,-104.5072,"United States: Presidio County, Texas",SAMN54951447,Aspidoscelis dixoni,Aspidoscelis dixoni
+AHP3383,AHP3383,29.121397,-100.476676,"United States: Laughlin Air Force Base Auxiliary #1, State Highway 131, Spofford, Kinney County, Texas",SAMN54951252,Aspidoscelis gularis,Aspidoscelis gularis 2
+ANMO1414,ANMO1414,25.0660556,-103.7756111,"Mexico: Carretera Gomez Palacio-Cuencame, Los Cuatillos, Cuencame, Durango",SAMN54951263,Aspidoscelis gularis,Aspidoscelis gularis 1
+ANMO1501,ANMO1501,27.74075,-101.3356944,"Mexico: Carretera El Sauz - Palau, Muzquiz, Coahuila",SAMN54951264,Aspidoscelis gularis,Aspidoscelis gularis 2
+ANMO1526,ANMO1526,25.4436667,-102.1570833,"Mexico: Calzada General Cepeda, Parras de la Fuente, Parras, Coahuila",SAMN54951265,Aspidoscelis gularis,Aspidoscelis gularis 1
+ASH150,ASH150,30.59303333,-103.9404167,"United States: 65, PR 3, Fort Davis, Jeff Davis County, Texas, 79734",SAMN54951280,Aspidoscelis gularis,Aspidoscelis gularis 2
+ASH159,ASH159,30.29726667,-103.5990667,"United States: South State Highway 118, Brewster County, Texas",SAMN54951281,Aspidoscelis gularis,Aspidoscelis gularis 2
+ASH162,ASH162,30.54213333,-103.8383167,"United States: Jeff Davis County, Texas",SAMN54951282,Aspidoscelis gularis,Aspidoscelis gularis 2
+ASH234,ASH234,29.69576667,-101.3207167,"United States: Park Road 67, Val Verde County, Texas",SAMN54951299,Aspidoscelis gularis,Aspidoscelis gularis 2
+ASH24,ASH24,30.99735556,-101.0547694,"United States: Crockett County, Texas, 76943",SAMN54951300,Aspidoscelis gularis,Aspidoscelis gularis 2
+ASH31,ASH31,32.98793333,-98.76311667,"United States: FM 3109, Young County, Texas, 76481",SAMN54951301,Aspidoscelis gularis,Aspidoscelis gularis 2
+ASH52,ASH52,32.2373,-97.83048333,"United States: County Road 1008, Somervell County, Texas",SAMN54951304,Aspidoscelis gularis,Aspidoscelis gularis 2
+ASH63,ASH63,34.44275,-101.0776833,"United States: State Park Road, Briscoe County, Texas",SAMN54951306,Aspidoscelis gularis,Aspidoscelis gularis 2
+CER1030,CER1030,30.53135,-104.358794,"United States: RM 505, Jeff Davis County, Texas",SAMN54951312,Aspidoscelis gularis,Aspidoscelis gularis 2
+CPA_003,CPA_003,21.2259639,-100.5072,"Mexico: San Luis de la Paz, Guanajuato, 37910",SAMN54951313,Aspidoscelis gularis,Aspidoscelis gularis 1
+CPA_004,CPA_004,21.2280889,-100.5110861,"Mexico: San Luis de la Paz, Guanajuato, 37910",SAMN54951314,Aspidoscelis gularis,Aspidoscelis gularis 1
+CPA_005,CPA_005,21.2304806,-100.5092417,"Mexico: San Luis de la Paz, Guanajuato, 37910",SAMN54951315,Aspidoscelis gularis,Aspidoscelis gularis 1
+CPA_025,CPA_025,25.6533083,-100.7123611,"Mexico: Autopista de Peaje Saltillo-Monterrey, Casablanca, Garcia, Nuevo Leon",SAMN54951316,Aspidoscelis gularis,Aspidoscelis gularis 2
+CPA_028,CPA_028,24.6853861,-100.3043472,"Mexico: El Barrocito, Galeana, Nuevo Leon",SAMN54951317,Aspidoscelis gularis,Aspidoscelis gularis 1
+CPA_029,CPA_029,24.6845389,-100.3052389,"Mexico: El Barrocito, Galeana, Nuevo Leon",SAMN54951318,Aspidoscelis gularis,Aspidoscelis gularis 1
+CPA_030,CPA_030,24.6843944,-100.3051972,"Mexico: El Barrocito, Galeana, Nuevo Leon",SAMN54951319,Aspidoscelis gularis,Aspidoscelis gularis 1
+CPA_035,CPA_035,23.7980833,-100.7017194,"Mexico: Carretera Cedral-Matehuala, Santa Teresa, Cedral, San Luis Potosi",SAMN54951320,Aspidoscelis gularis,Aspidoscelis gularis 1
+CPA_036,CPA_036,23.7978667,-100.7034056,"Mexico: Cedral, San Luis Potosi",SAMN54951321,Aspidoscelis gularis,Aspidoscelis gularis 1
+CPA_037,CPA_037,23.7994583,-100.7041222,"Mexico: Cedral, San Luis Potosi",SAMN54951322,Aspidoscelis gularis,Aspidoscelis gularis 1
+CPA_045,CPA_045,20.5175722,-100.3129556,"Mexico: El Rosario, El Marques, Queretaro, 76973",SAMN54951323,Aspidoscelis gularis,Aspidoscelis gularis 1
+CPA_063,CPA_063,21.8835083,-102.6181389,"Mexico: El Sauz, Calvillo, Aguascalientes, 20832",SAMN54951324,Aspidoscelis gularis,Aspidoscelis gularis 1
+CPA_071,CPA_071,22.6434944,-102.9649694,"Mexico: Rosas, Jerez, Zacatecas, 99310",SAMN54951325,Aspidoscelis gularis,Aspidoscelis gularis 1
+CPA_072,CPA_072,22.6434944,-102.9649694,"Mexico: Rosas, Jerez, Zacatecas, 99310",SAMN54951326,Aspidoscelis gularis,Aspidoscelis gularis 1
+CSL9299,CSL9299_muscle,31.66947,-103.62607,"United States: State Highway 302, Mentone, Loving County, Texas, 79754",SAMN54951331,Aspidoscelis gularis,Aspidoscelis gularis 2
+CSL9300,CSL9300,31.66995,-103.6257,"United States: State Highway 302, Mentone, Loving County, Texas, 79754",SAMN54951332,Aspidoscelis gularis,Aspidoscelis gularis 2
+CSL9427,CSL9427,29.84947,-98.2807,"United States: 567, Old Cranes Mill Road, Startzville, Comal County, Texas, 78133",SAMN54951336,Aspidoscelis gularis,Aspidoscelis gularis 2
+CSL9464,CSL9464,30.58618,-104.28737,"United States: State Highway 166, Jeff Davis County, Texas",SAMN54951338,Aspidoscelis gularis,Aspidoscelis gularis 2
+CSL9471,CSL9471,30.53463,-104.06437,"United States: Point of Rocks roadside park, Point of Rocks Roadside Park, Jeff Davis County, Texas",SAMN54951339,Aspidoscelis gularis,Aspidoscelis gularis 2
+CSL9473,CSL9473_blood,30.90688,-104.14655,"United States: State Highway 118, Jeff Davis County, Texas",SAMN54951340,Aspidoscelis gularis,Aspidoscelis gularis 2
+DCC3019,DCC3019,29.950059,-99.963841,"United States: Hackberry Road, Real County, Texas",SAMN54951343,Aspidoscelis gularis,Aspidoscelis gularis 2
+DIL298,DIL298,30.34114,-97.84431,"United States: Cliff Loop Trail, Austin, Travis County, Texas, 78730",SAMN54951344,Aspidoscelis gularis,Aspidoscelis gularis 2
+DIL305,DIL305,30.57774,-98.8711,"United States: 17198, Ranch to Market Road 2323, Prairie Mountain, Llano County, Texas, 78643",SAMN54951345,Aspidoscelis gularis,Aspidoscelis gularis 2
+EW2,EW2,33.3098,-97.6079,"United States: Fs 920, Wise County, Texas",SAMN54951353,Aspidoscelis gularis,Aspidoscelis gularis 2
+GBP789,GBP789,30.46877,-99.78506,"United States: Texas Tech University Center at Junction, 254, Red Raider Lane, Junction, Kimble County, Texas, 76849",SAMN54951354,Aspidoscelis gularis,Aspidoscelis gularis 2
+GBP810,GBP810,33.834,-100.51647,"United States: FM 2569, King County, Texas",SAMN54951355,Aspidoscelis gularis,Aspidoscelis gularis 2
+H3229,H3229,29.97,-98.108,"United States: Wimberley, Hays County, Texas, 78676",SAMN54951356,Aspidoscelis gularis,Aspidoscelis gularis 2
+ISZ_527,ISZ_527,20.41211111,-102.622306,"Mexico: Ocotlan, La Barca, Region Cienega, Jalisco, 47916",SAMN54951357,Aspidoscelis gularis,Aspidoscelis gularis 1
+JCHZ_011,JCHZ_011,20.7400194,-99.38260556,"Mexico: Avenida Heroico Colegio Militar, Zimapan, Hidalgo",SAMN54951358,Aspidoscelis gularis,Aspidoscelis gularis 1
+KdQ194,KdQ194,30.703396,-97.877688,"United States: North US Highway 183, Williamson County, Texas, 78642",SAMN54951360,Aspidoscelis gularis,Aspidoscelis gularis 2
+KLC_037,KLC_037,27.9145,-99.8463,"United States: Webb County, Texas",SAMN54951371,Aspidoscelis gularis,Aspidoscelis gularis 2
+KLC_049,KLC_049,30.5405,-103.8373,"United States: Powell Visitor Center, Outside Loop, Jeff Davis County, Texas",SAMN54951372,Aspidoscelis gularis,Aspidoscelis gularis 2
+KLC_166,KLC_166,30.3232,-103.1369,"United States: Brewster County, Texas",SAMN54951437,Aspidoscelis gularis,Aspidoscelis gularis 2
+MTH370,MTH370,30.79169444,-98.35088888,"United States: Race Loop, Burnet County, Texas",SAMN54951441,Aspidoscelis gularis,Aspidoscelis gularis 2
+NLMM_491,NLMM_491,21.8135556,-100.9587778,"Mexico: Libramiento Villa de Reyes, Villa de Reyes, San Luis Potosi",SAMN54951442,Aspidoscelis gularis,Aspidoscelis gularis 1
+NLMM_500,NLMM_500,21.8129722,-100.9598611,"Mexico: Libramiento Villa de Reyes, Villa de Reyes, San Luis Potosi",SAMN54951443,Aspidoscelis gularis,Aspidoscelis gularis 1
+OMNH4943,OMNH4943,35.074585,-99.892805,"United States: Fish Creek Road, Beckham County, Oklahoma",SAMN54951444,Aspidoscelis gularis,Aspidoscelis gularis 2
+TAMU_H7725,TAMU_H7725,30.78961,-98.35497222,"United States: Race Loop, Burnet County, Texas",SAMN54951450,Aspidoscelis gularis,Aspidoscelis gularis 2
+TC136,TC136,21.40472222,-99.63694444,"Mexico: Arroyo Seco, Queretaro, 76400",SAMN54951451,Aspidoscelis gularis,Aspidoscelis gularis 1
+TC372,TC372,29.664074,-98.552939,"United States: Malabang Trail, Bexar County, Texas, 78257",SAMN54951452,Aspidoscelis gularis,Aspidoscelis gularis 2
+TJD984,TJD984,30.3228833,-103.7427417,"United States: Rest Area, Brewster County, Texas",SAMN54951454,Aspidoscelis gularis,Aspidoscelis gularis 2
+TJH2108,TJH2108,30.9444,-100.62386,"United States: RM 915, Schleicher County, Texas",SAMN54951455,Aspidoscelis gularis,Aspidoscelis gularis 2
+TJH2112,TJH2112,30.76873,-100.2881,"United States: County Road 245, Schleicher County, Texas",SAMN54951456,Aspidoscelis gularis,Aspidoscelis gularis 2
+TJH2818,TJH2818,29.96305,-98.08515,"United States: Spoke Hollow Road, Wimberley, Hays County, Texas, 78676",SAMN54951457,Aspidoscelis gularis,Aspidoscelis gularis 2
+TJH3035,TJH3035,32.121966,-102.78485,"United States: Andrews County, Texas, 79714",SAMN54951463,Aspidoscelis gularis,Aspidoscelis gularis 2
+TJH3382,TJH3382,27.2258,-97.85161,"United States: Kenedy County, Texas",SAMN54951465,Aspidoscelis gularis,Aspidoscelis gularis 2
+TJH3454,TJH3454,26.719709,-98.52251,"United States: 8935, FM 755;FM 1017, La Gloria, Starr County, Texas, 78591",SAMN54951467,Aspidoscelis gularis,Aspidoscelis gularis 2
+TJL1320,TJL1320,30.283511,-97.934528,"United States: 11909, Overlook Pass, Spanish Oaks, Travis County, Texas, 78738",SAMN54951468,Aspidoscelis gularis,Aspidoscelis gularis 2
+TJL1574,TJL1574,30.234979,-97.645229,"United States: River Trail, Austin, Travis County, Texas, 78742",SAMN54951469,Aspidoscelis gularis,Aspidoscelis gularis 2
+TJL1677,TJL1677,30.429177,-97.653609,"United States: South Heatherwilde Boulevard, Austin, Travis County, Texas, 78728",SAMN54951470,Aspidoscelis gularis,Aspidoscelis gularis 2
+TJL305,TJL305,30.086835,-97.173349,"United States: 727, Old Antioch Road, Bastrop County, Texas, 78957",SAMN54951473,Aspidoscelis gularis,Aspidoscelis gularis 2
+UNM73545,UNM73545,32.085738,-104.472228,"United States: Eddy County, New Mexico",SAMN54951475,Aspidoscelis gularis,Aspidoscelis marmorata
+ASH131,ASH131,32.5454,-104.3666333,"United States: Capitan Reef Road, Eddy County, New Mexico, 88221",SAMN54951271,Aspidoscelis marmoratus,Aspidoscelis marmorata
+ASH144,ASH144,32.1458,-104.3819833,"United States: Whites City Road, Eddy County, New Mexico, 88268",SAMN54951275,Aspidoscelis marmoratus,Aspidoscelis marmorata
+ASH145,ASH145,32.1458,-104.3819833,"United States: Whites City Road, Eddy County, New Mexico, 88268",SAMN54951276,Aspidoscelis marmoratus,Aspidoscelis marmorata
+ASH146,ASH146,32.1458,-104.3819833,"United States: Whites City Road, Eddy County, New Mexico, 88268",SAMN54951277,Aspidoscelis marmoratus,Aspidoscelis marmorata
+ASH147,ASH147,32.1458,-104.3819833,"United States: Whites City Road, Eddy County, New Mexico, 88268",SAMN54951278,Aspidoscelis marmoratus,Aspidoscelis marmorata
+ASH148,ASH148,32.1458,-104.3819833,"United States: Whites City Road, Eddy County, New Mexico, 88268",SAMN54951279,Aspidoscelis marmoratus,Aspidoscelis marmorata
+ASH165,ASH165,30.9537,-104.8989333,"United States: Scott Crossing Road, Scotts Crossing, Culberson County, Texas",SAMN54951283,Aspidoscelis marmoratus,Aspidoscelis marmorata
+ASH182,ASH182,29.47408,-103.936802,"United States: Main Park Road, Presidio County, Texas",SAMN54951290,Aspidoscelis marmoratus,Aspidoscelis marmorata
+ASH183,ASH183,29.37968333,-104.1151667,"United States: FM 170 East, Presidio County, Texas",SAMN54951291,Aspidoscelis marmoratus,Aspidoscelis marmorata
+ASH184,ASH184,29.37968333,-104.1151667,"United States: FM 170 East, Presidio County, Texas",SAMN54951292,Aspidoscelis marmoratus,Aspidoscelis marmorata
+ASH192,ASH192,29.55231667,-102.9325333,"United States: Ranch Road 2627, Brewster County, Texas",SAMN54951293,Aspidoscelis marmoratus,Aspidoscelis marmorata
+ASH193,ASH193,29.48113333,-102.8559833,"United States: Ranch Road 2627, Brewster County, Texas",SAMN54951294,Aspidoscelis marmoratus,Aspidoscelis marmorata
+ASH206,ASH206,29.62683333,-103.0209,"United States: Brewster County, Texas",SAMN54951295,Aspidoscelis marmoratus,Aspidoscelis marmorata
+ASH207,ASH207,29.62683333,-103.0209,"United States: Brewster County, Texas",SAMN54951296,Aspidoscelis marmoratus,Aspidoscelis marmorata
+ASH214,ASH214,29.5523,-102.9325333,"United States: Ranch Road 2627, Brewster County, Texas",SAMN54951297,Aspidoscelis marmoratus,Aspidoscelis marmorata
+ASH215,ASH215,29.59765,-102.98835,"United States: Brewster County, Texas",SAMN54951298,Aspidoscelis marmoratus,Aspidoscelis marmorata
+CER1028,CER1028,29.635178,-103.332736,"United States: Rattail Road, Brewster County, Texas",SAMN54951311,Aspidoscelis marmoratus,Aspidoscelis marmorata
+CSL12308,CSL12308,31.82362,-104.11246,"United States: Ranch Road 652, Culberson County, Texas",SAMN54951327,Aspidoscelis marmoratus,Aspidoscelis marmorata
+CSL9383,CSL9383,31.80402,-106.86732,"United States: A003 County Road, Mastodon, Dona Ana County, New Mexico",SAMN54951333,Aspidoscelis marmoratus,Aspidoscelis marmorata
+CSL9385,CSL9385,31.80368,-107.02148,"United States: A003 County Road, Potrillo, Dona Ana County, New Mexico",SAMN54951334,Aspidoscelis marmoratus,Aspidoscelis marmorata
+CSL9386,CSL9386,31.82085,-106.70977,"United States: A003 County Road, Mastodon, Dona Ana County, New Mexico",SAMN54951335,Aspidoscelis marmoratus,Aspidoscelis marmorata
+DIL423,DIL423,32.40727,-106.08432,"United States: US Highway 54 South, Otero County, New Mexico",SAMN54951346,Aspidoscelis marmoratus,Aspidoscelis marmorata
+DL1134,DL1134,31.49588888,-102.6590556,"United States: Farm to Market Road 1053, Tubbs Corner, Crane County, Texas",SAMN54951347,Aspidoscelis marmoratus,Aspidoscelis marmorata
+DL907,DL907,33.02059722,-103.9201667,"United States: Chaves County, New Mexico",SAMN54951348,Aspidoscelis marmoratus,Aspidoscelis marmorata
+ESP_9319,ESP_9319,33.36,-104.47,"United States: Woodbine Way, Fairbanks, Chaves County, New Mexico, 88203",SAMN54951349,Aspidoscelis marmoratus,Aspidoscelis marmorata
+ESP_9320,ESP_9320,33.36,-104.47,"United States: Woodbine Way, Fairbanks, Chaves County, New Mexico, 88203",SAMN54951350,Aspidoscelis marmoratus,Aspidoscelis marmorata
+ESP_9629,ESP_9629,32.47,-104.3,"United States: Artesia Highway, Carlsbad, Eddy County, New Mexico",SAMN54951351,Aspidoscelis marmoratus,Aspidoscelis marmorata
+ESP_9630,ESP_9630,33.47,-104.4,"United States: Chaves County, New Mexico",SAMN54951352,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_016,KLC_016,29.4496,-102.8237,"United States: Ranch Road 2627, Brewster County, Texas",SAMN54951369,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_097,KLC_097,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951388,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_099,KLC_099,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951390,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_100,KLC_100,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951391,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_101,KLC_101,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951392,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_102,KLC_102,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951393,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_103,KLC_103,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951394,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_104,KLC_104,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951395,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_105,KLC_105,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951396,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_106,KLC_106,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951397,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_107,KLC_107,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951398,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_108,KLC_108,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951399,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_109,KLC_109,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951400,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_110,KLC_110,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951401,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_111,KLC_111,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951402,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_112,KLC_112,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951403,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_114,KLC_114,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951404,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_115,KLC_115,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951405,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_116,KLC_116,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951406,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_117,KLC_117,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951407,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_121,KLC_121,29.4558,-103.4125,"United States: Maccomb Road, Brewster County, Texas",SAMN54951411,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_132,KLC_132,29.4558,-103.4125,"United States: Maccomb Road, Brewster County, Texas",SAMN54951419,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_133,KLC_133,29.4558,-103.4125,"United States: Maccomb Road, Brewster County, Texas",SAMN54951420,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_137,KLC_137,29.4544,-103.4927,"United States: Lake Ament Road, Brewster County, Texas",SAMN54951423,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_138,KLC_138,29.4544,-103.4927,"United States: Lake Ament Road, Brewster County, Texas",SAMN54951424,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_139,KLC_139,29.4544,-103.4927,"United States: Lake Ament Road, Brewster County, Texas",SAMN54951425,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_140,KLC_140,29.4544,-103.4927,"United States: Lake Ament Road, Brewster County, Texas",SAMN54951426,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_142,KLC_142,29.4544,-103.4927,"United States: Lake Ament Road, Brewster County, Texas",SAMN54951427,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_145,KLC_145,29.4544,-103.4927,"United States: Lake Ament Road, Brewster County, Texas",SAMN54951429,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_146,KLC_146,29.4558,-103.4839,"United States: Lake Ament Road, Brewster County, Texas, 79852",SAMN54951430,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_149,KLC_149,29.4558,-103.4839,"United States: Lake Ament Road, Brewster County, Texas, 79852",SAMN54951432,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_150,KLC_150,29.4558,-103.4839,"United States: Lake Ament Road, Brewster County, Texas, 79852",SAMN54951433,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KLC_151,KLC_151,29.4558,-103.4839,"United States: Lake Ament Road, Brewster County, Texas, 79852",SAMN54951434,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KWF3106,KWF3106_liver,32.23919,-107.124,"United States: Dona Ana County, New Mexico",SAMN54951439,Aspidoscelis marmoratus,Aspidoscelis marmorata
+KWF3107,KWF3107,32.23919,-107.124,"United States: Dona Ana County, New Mexico",SAMN54951440,Aspidoscelis marmoratus,Aspidoscelis marmorata
+TJH2853,TJH2853,31.63433,-102.87141,"United States: Shell Oil County Road, Ward County, Texas",SAMN54951458,Aspidoscelis marmoratus,Aspidoscelis marmorata
+TJH2903,TJH2903,31.58394,-102.70757,"United States: Crane County, Texas, 79731",SAMN54951459,Aspidoscelis marmoratus,Aspidoscelis marmorata
+TJH2916,TJH2916,31.650689,-102.77541,"United States: Ward County, Texas",SAMN54951460,Aspidoscelis marmoratus,Aspidoscelis marmorata
+TJH2972,TJH2972,32.19819,-102.68666,"United States: Southwest 5501, Andrews County, Texas",SAMN54951461,Aspidoscelis marmoratus,Aspidoscelis marmorata
+TJH3008,TJH3008,32.1371,-102.80307,"United States: Andrews County, Texas, 79714",SAMN54951462,Aspidoscelis marmoratus,Aspidoscelis marmorata
+TJH3059,TJH3059,31.997279,-103.06457,"United States: FM 1218, Winkler County, Texas",SAMN54951464,Aspidoscelis marmoratus,Aspidoscelis marmorata
+TJL317,TJL317,32.23466,-107.35771,"United States: Highway 549, Luna County, New Mexico, 88030",SAMN54951474,Aspidoscelis marmoratus,Aspidoscelis marmorata
+UNM74685,UNM74685,33.61665534,-103.8584994,"United States: Chaves County, New Mexico",SAMN54951476,Aspidoscelis marmoratus,Aspidoscelis marmorata
+UNM74810,UNM74810,32.09500555,-108.9754239,"United States: NM 80;US 80 Hist, Hidalgo County, New Mexico",SAMN54951477,Aspidoscelis marmoratus,Aspidoscelis marmorata
+UTEP12308,UTEP12308,31.82362,-104.11246,"United States: Ranch Road 652, Culberson County, Texas",SAMN54951478,Aspidoscelis marmoratus,Aspidoscelis marmorata
+JJ10,JJ10,33.81097,-111.64418,"United States: Forest Road 162, Maricopa County, Arizona",SAMN54951359,Aspidoscelis tigris,Aspidoscelis marmorata
+AHP3665,AHP3665,29.890978,-104.521026,"United States: Presidio County, Texas",SAMN54951255,Aspidoscelis scalaris,Aspidoscelis scalaris
+AHP3666,AHP3666,29.890978,-104.521026,"United States: Presidio County, Texas",SAMN54951256,Aspidoscelis scalaris,Aspidoscelis scalaris
+TAMU_H4651,TAMU_H4651,29.8755,-104.5072,"United States: Presidio County, Texas",SAMN54951448,Aspidoscelis scalaris,Aspidoscelis scalaris
+TAMU_H4652,TAMU_H4652,29.8755,-104.5072,"United States: Presidio County, Texas",SAMN54951449,Aspidoscelis scalaris,Aspidoscelis scalaris
+ASH328,ASH328,29.55714,-103.7948,"United States: Presidio County, Texas",SAMN54951302,Aspidoscelis marmoratus,Aspidoscelis septemvittata
+ASH341,ASH341,29.55714,-103.7948,"United States: Presidio County, Texas",SAMN54951303,Aspidoscelis marmoratus,Aspidoscelis septemvittata
+KLC_080,KLC_080,29.4634,-100.8663,"United States: Val Verde County, Texas",SAMN54951373,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_081,KLC_081,29.4634,-100.8663,"United States: Val Verde County, Texas",SAMN54951374,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_082,KLC_082,29.4634,-100.8663,"United States: Val Verde County, Texas",SAMN54951375,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_083,KLC_083,29.4634,-100.8663,"United States: Val Verde County, Texas",SAMN54951376,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_084,KLC_084,29.4634,-100.8663,"United States: Val Verde County, Texas",SAMN54951377,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_085,KLC_085,29.4634,-100.8663,"United States: Val Verde County, Texas",SAMN54951378,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_086,KLC_086,29.4634,-100.8663,"United States: Val Verde County, Texas",SAMN54951379,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_088,KLC_088,29.4634,-100.8663,"United States: Val Verde County, Texas",SAMN54951381,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_089,KLC_089,29.4634,-100.8663,"United States: Val Verde County, Texas",SAMN54951382,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_090,KLC_090,29.4634,-100.8663,"United States: Val Verde County, Texas",SAMN54951383,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_091,KLC_091,29.4634,-100.8663,"United States: Val Verde County, Texas",SAMN54951384,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_092,KLC_092,29.4634,-100.8663,"United States: Val Verde County, Texas",SAMN54951385,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_093,KLC_093,29.4634,-100.8663,"United States: Val Verde County, Texas",SAMN54951386,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_094,KLC_094,29.4561,-103.4125,"United States: Maccomb Road, Brewster County, Texas",SAMN54951387,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_098,KLC_098,29.4368,-103.506,"United States: 52875, South State Highway 118, Brewster County, Texas, 79852",SAMN54951389,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_118,KLC_118,29.4558,-103.4125,"United States: Maccomb Road, Brewster County, Texas",SAMN54951408,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_119,KLC_119,29.4558,-103.4125,"United States: Maccomb Road, Brewster County, Texas",SAMN54951409,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_120,KLC_120,29.4558,-103.4125,"United States: Maccomb Road, Brewster County, Texas",SAMN54951410,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_122,KLC_122,29.4558,-103.4125,"United States: Maccomb Road, Brewster County, Texas",SAMN54951412,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_123,KLC_123,29.4558,-103.4125,"United States: Maccomb Road, Brewster County, Texas",SAMN54951413,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_124,KLC_124,29.4558,-103.4125,"United States: Maccomb Road, Brewster County, Texas",SAMN54951414,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_125,KLC_125,29.4558,-103.4125,"United States: Maccomb Road, Brewster County, Texas",SAMN54951415,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_129,KLC_129,29.4558,-103.4125,"United States: Maccomb Road, Brewster County, Texas",SAMN54951416,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_130,KLC_130,29.4558,-103.4125,"United States: Maccomb Road, Brewster County, Texas",SAMN54951417,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_131,KLC_131,29.4558,-103.4125,"United States: Maccomb Road, Brewster County, Texas",SAMN54951418,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_135,KLC_135,29.4558,-103.4125,"United States: Maccomb Road, Brewster County, Texas",SAMN54951421,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_136,KLC_136,29.4544,-103.4927,"United States: Lake Ament Road, Brewster County, Texas",SAMN54951422,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_143,KLC_143,29.4544,-103.4927,"United States: Lake Ament Road, Brewster County, Texas",SAMN54951428,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+KLC_147,KLC_147,29.4558,-103.4839,"United States: Lake Ament Road, Brewster County, Texas, 79852",SAMN54951431,Aspidoscelis septemvittatus,Aspidoscelis septemvittata
+TJL2434,TJL2434,30.448064,-104.635083,"United States: Presidio County, Texas",SAMN54951471,Aspidoscelis gularis,Aspidoscelis tesselata
+TJL2445,TJL2445,30.638733,-104.630378,"United States: Jeff Davis County, Texas, 79854",SAMN54951472,Aspidoscelis gularis,Aspidoscelis tesselata
+TJH3385,TJH3385,26.76105,-98.7766,"United States: Starr County, Texas",SAMN54951466,Aspidoscelis gularis,Aspidoscelis tesselata
+KLC_027,KLC_027,29.4496,-102.8237,"United States: Ranch Road 2627, Brewster County, Texas",SAMN54951370,Aspidoscelis marmoratus,Aspidoscelis tesselata
+KLC_087,KLC_087,29.4634,-100.8663,"United States: Val Verde County, Texas",SAMN54951380,Aspidoscelis septemvittatus,Aspidoscelis tesselata
+AMNH_R154170,AMNH_R154170,33.14,-107.19,"United States: NM 51, Sierra County, New Mexico",SAMN54951261,Aspidoscelis tesselatus,Aspidoscelis tesselata
+AMNH_R154171,AMNH_R154171,33.14,-107.19,"United States: NM 51, Sierra County, New Mexico",SAMN54951262,Aspidoscelis tesselatus,Aspidoscelis tesselata
+AMNH_R127002,AMNH_R127002,35.69,-106.85,"United States: Sandoval County, New Mexico",SAMN54951257,Aspidoscelis tesselatus,Aspidoscelis tesselata
+CSL8739,CSL8739_muscle,31.08045,-105.09242,"United States: Hudspeth County, Texas",SAMN54951328,Aspidoscelis tesselatus,Aspidoscelis tesselata
+CSL8785,CSL8785,30.78547,-104.97938,"United States: Hudspeth County, Texas",SAMN54951330,Aspidoscelis tesselatus,Aspidoscelis tesselata
+CSL8784,CSL8784,30.78593,-104.9605,"United States: Hudspeth County, Texas",SAMN54951329,Aspidoscelis tesselatus,Aspidoscelis tesselata
+CSL9434,CSL9434,30.78592,-104.9605,"United States: Hudspeth County, Texas",SAMN54951337,Aspidoscelis tesselatus,Aspidoscelis tesselata
+ASH178,ASH178,29.47505,-104.9418,"Mexico: Coyame del Sotol, Chihuahua",SAMN54951287,Aspidoscelis tesselatus,Aspidoscelis tesselata
+ASH179,ASH179,29.47505,-104.9418,"Mexico: Coyame del Sotol, Chihuahua",SAMN54951288,Aspidoscelis tesselatus,Aspidoscelis tesselata
+ASH168,ASH168,30.93195,-104.9194333,"United States: Green River Road, Hudspeth County, Texas",SAMN54951285,Aspidoscelis tesselatus,Aspidoscelis tesselata
+ASH167,ASH167,30.9346,-104.91175,"United States: Green River Road, Hudspeth County, Texas",SAMN54951284,Aspidoscelis tesselatus,Aspidoscelis tesselata
+CSL9501,CSL9501_liver,31.03883,-104.89697,"United States: Scenic Overlook & Rest Area, I 10, Culberson County, Texas",SAMN54951342,Aspidoscelis tesselatus,Aspidoscelis tesselata
+CSL9497,CSL9497_liver,31.21395,-104.85112,"United States: State Highway 54, Culberson County, Texas",SAMN54951341,Aspidoscelis tesselatus,Aspidoscelis tesselata
+AMNH_R136875,AMNH_R136875,35.47,-104.83,"United States: San Miguel County, New Mexico",SAMN54951258,Aspidoscelis tesselatus,Aspidoscelis tesselata
+AMNH_R136876,AMNH_R136876,35.47,-104.83,"United States: San Miguel County, New Mexico",SAMN54951259,Aspidoscelis tesselatus,Aspidoscelis tesselata
+ASH102,ASH102,34.76441667,-104.535,"United States: County Road 2L, Guadalupe County, New Mexico",SAMN54951266,Aspidoscelis tesselatus,Aspidoscelis tesselata
+ASH103,ASH103,34.76441667,-104.535,"United States: County Road 2L, Guadalupe County, New Mexico",SAMN54951267,Aspidoscelis tesselatus,Aspidoscelis tesselata
+ASH98,ASH98,34.76441667,-104.535,"United States: County Road 2L, Guadalupe County, New Mexico",SAMN54951309,Aspidoscelis tesselatus,Aspidoscelis tesselata
+ASH99,ASH99,34.76441667,-104.535,"United States: County Road 2L, Guadalupe County, New Mexico",SAMN54951310,Aspidoscelis tesselatus,Aspidoscelis tesselata
+ASH104,ASH104,34.76983333,-104.522,"United States: County Road 2L, Guadalupe County, New Mexico",SAMN54951268,Aspidoscelis tesselatus,Aspidoscelis tesselata
+AMNH_R148426,AMNH_R148426,29.87371,-104.463,"United States: Presidio County, Texas",SAMN54951260,Aspidoscelis tesselatus,Aspidoscelis tesselata
+ASH110,ASH110,34.60423333,-104.3832167,"United States: 5743, NM 203, De Baca County, New Mexico, 88119",SAMN54951269,Aspidoscelis tesselatus,Aspidoscelis tesselata
+ASH135,ASH135,32.56631667,-104.3819833,"United States: Limestone Campground, 216, East Brantley Lake Road, Eddy County, New Mexico, 88221",SAMN54951273,Aspidoscelis tesselatus,Aspidoscelis tesselata
+ASH140,ASH140,32.565354,-104.37994,"United States: 23, 216, East Brantley Lake Road, Eddy County, New Mexico, 88221",SAMN54951274,Aspidoscelis tesselatus,Aspidoscelis tesselata
+ASH111,ASH111,34.60486667,-104.3725333,"United States: NM 203, De Baca County, New Mexico",SAMN54951270,Aspidoscelis tesselatus,Aspidoscelis tesselata
+ASH134,ASH134,32.5698,-104.35495,"United States: Brantley Lake State Park Visitor Center, 33, East Brantley Lake Road, Carlsbad, Eddy County, New Mexico, 88221",SAMN54951272,Aspidoscelis tesselatus,Aspidoscelis tesselata
+ASH72,ASH72,33.33211667,-104.3301667,"United States: Chaves County, New Mexico",SAMN54951308,Aspidoscelis tesselatus,Aspidoscelis tesselata
+ASH173,ASH173,30.22233333,-104.06215,"United States: US 67, Presidio County, Texas",SAMN54951286,Aspidoscelis tesselatus,Aspidoscelis tesselata
+ASH180,ASH180,29.47641667,-103.97155,"United States: Main Park Road, Presidio County, Texas",SAMN54951289,Aspidoscelis tesselatus,Aspidoscelis tesselata
+KLC_007,KLC_007,29.557,-103.7858,"United States: Brewster County, Texas",SAMN54951361,Aspidoscelis tesselatus,Aspidoscelis tesselata
+KLC_008,KLC_008,29.557,-103.7858,"United States: Brewster County, Texas",SAMN54951362,Aspidoscelis tesselatus,Aspidoscelis tesselata
+KLC_009,KLC_009,29.557,-103.7858,"United States: Brewster County, Texas",SAMN54951363,Aspidoscelis tesselatus,Aspidoscelis tesselata
+KLC_010,KLC_010,29.557,-103.7858,"United States: Brewster County, Texas",SAMN54951364,Aspidoscelis tesselatus,Aspidoscelis tesselata
+KLC_011,KLC_011,29.557,-103.7858,"United States: Brewster County, Texas",SAMN54951365,Aspidoscelis tesselatus,Aspidoscelis tesselata
+KLC_012,KLC_012,29.557,-103.7858,"United States: Brewster County, Texas",SAMN54951366,Aspidoscelis tesselatus,Aspidoscelis tesselata
+KLC_013,KLC_013,29.557,-103.7858,"United States: Brewster County, Texas",SAMN54951367,Aspidoscelis tesselatus,Aspidoscelis tesselata
+KLC_014,KLC_014,29.557,-103.7858,"United States: Brewster County, Texas",SAMN54951368,Aspidoscelis tesselatus,Aspidoscelis tesselata
+KLC_162,KLC_162,37.6597,-103.5703,"United States: Picketwire Canyon Trail, Otero County, Colorado",SAMN54951435,Aspidoscelis tesselatus,Aspidoscelis tesselata
+KLC_163,KLC_163,37.6597,-103.5703,"United States: Picketwire Canyon Trail, Otero County, Colorado",SAMN54951436,Aspidoscelis tesselatus,Aspidoscelis tesselata
+TC923,TC923,29.190055,-103.262886,"United States: Brewster County, Texas",SAMN54951453,Aspidoscelis tesselatus,Aspidoscelis tesselata
+KLC_168,KLC_168,35.5129,-101.7947,"United States: Gravel Pit Road, Potter County, Texas",SAMN54951438,Aspidoscelis tesselatus,Aspidoscelis tesselata
+ASH62,ASH62,34.44275,-101.0776833,"United States: State Park Road, Briscoe County, Texas",SAMN54951305,Aspidoscelis tesselatus,Aspidoscelis tesselata
+ASH70,ASH70,34.44275,-101.0776833,"United States: State Park Road, Briscoe County, Texas",SAMN54951307,Aspidoscelis tesselatus,Aspidoscelis tesselata
